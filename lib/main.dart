@@ -107,13 +107,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-/*Text(
-'Hello, $_name! How are you?',
-textAlign: TextAlign.center,
-overflow: TextOverflow.ellipsis,
-style: TextStyle(fontWeight: FontWeight.bold),
-)
-
- */
-//testgit
