@@ -52,6 +52,15 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
                 Container(
+                  child: Text(
+                    '___________________________________________________________________',
+                    style: GoogleFonts.oswald(
+                      fontSize: 7,
+                      color: Colors.cyanAccent,
+                    ),
+                  ),
+                ),
+                Container(
                   height: 20,
                 ),
                 //phone number
