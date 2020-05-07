@@ -1,3 +1,6 @@
+//in thirdbranch adding comment
+//third branch was checkout of origin:master
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
